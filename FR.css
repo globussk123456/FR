@@ -785,6 +785,12 @@ height: 100%;
 visibility: hidden;
 }
 
+#playback .background img {
+background: url('https://i.imgur.com/OEmp9Y4.png') no-repeat left bottom, url('https://i.imgur.com/QjIwqkr.png') no-repeat right bottom;
+margin: 0px -174px;
+padding: 0px 174px;
+}
+
 /* Custom icons */
 
 .icon { background-image: url('https://i.imgur.com/mEHKySY.png'); } /* vermelho */
