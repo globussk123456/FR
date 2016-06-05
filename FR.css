@@ -1498,12 +1498,12 @@ background-position: 9px 9px;
 }
 
 /* Foxxiček */
-#chat [data-cid^="5223615-"] .bdg {
+#chat [data-cid^="13444919-"] .bdg {
   background: url('http://i.imgur.com/ImghfNX.jpg') !important;
   background-position: 0px 0px;
 }
 
-[data-cid^="5223615-"] .msg .from .un {
+[data-cid^="13444919-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1513,8 +1513,8 @@ background-position: 9px 9px;
     background-size: 15px auto;
 }    
 
-#chat .cm[data-cid^="5223615-"] .un {
-  color: #ff69b4;
+#chat .cm[data-cid^="5017102-"] .un {
+  color: #00FF00;
 }
 
 /* HellSynthetika */
@@ -1524,7 +1524,7 @@ background-position: 9px 9px;
 }
 
 /* Free Run Bot */
-#chat [data-cid^="5052186-"] .bdg {
+#chat [data-cid^="9731159-"] .bdg {
   background: url('http://s21.postimg.org/j688u2av7/WALL_E_24.png') !important;
   background-position: 0px 0px;
 }
