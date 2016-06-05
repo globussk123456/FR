@@ -1580,3 +1580,11 @@ background-position: 9px 9px;
 #app-menu .button {
   background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0px, rgba(0, 0, 0, 0.75) 100%);
 }
+
+/* Repiboy */ 
+[data-cid^="13444919"].cm .msg .from .un, .role-manager.id-13444919 .name
+{
+        
+        color: rgb(71,185,185) !important; 
+        text-shadow: 2px 2px 15px rgb(71,185,185);
+}
