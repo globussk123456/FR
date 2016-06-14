@@ -480,10 +480,6 @@
   background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  
 }
 
-#footer-user .buttons {
-	background: #000;
-}
-
 #footer-user .info { 
   background: linear-gradient(to bottom,#521114 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); 
 }
