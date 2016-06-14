@@ -1217,10 +1217,6 @@ background-position: 9px 9px;
 	top: 10px;
 }
 
-#chat { background: rgba(0, 0, 0, 1)}
-
-}    
-
 /*  Host */
 #user-panel:not(.is-none) .user > .icon-chat-host + .name,#user-lists .user > .icon-chat-host + .name,.message.from-host > .from,.emote.from-host > .from,.mention.from-host > .from {
     color: #cf0000 !important;
@@ -1497,9 +1493,9 @@ background-position: 9px 9px;
   background-position: 0px 0px;
 }
 
-/* Repiboy */
-#chat [data-cid^="13444919-"] .bdg {
-  background: url('http://i.imgur.com/ImghfNX.jpg') !important;
+/* Sovetiicka */
+#chat [data-cid^="5223615-"] .bdg {
+  background: url('https://vgy.me/Oq7Ia4.png') !important;
   background-position: 0px 0px;
 }
 
@@ -1581,10 +1577,3 @@ background-position: 9px 9px;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0px, rgba(0, 0, 0, 0.75) 100%);
 }
 
-/* Repiboy */ 
-[data-cid^="13444919"].cm .msg .from .un, .role-manager.id-13444919 .name
-{
-        
-        color: rgb(247, 0, 0) !important; 
-        text-shadow: 0px 0px 100px rgb(247, 0, 0);
-}
