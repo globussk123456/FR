@@ -1,16 +1,16 @@
 {
   "room": "Free Run CZ/SK",
-  "author": "≽ܫ≼ Ichigo ≽ܫ≼",
+  "author": "Globus & Repi",
   "icon": "https://vgy.me/1ELvVg.png",
   "css": "https://rawgit.com/Dark1997/FR/master/FR.css",
   "rules": {
-    "allowAutorespond": false,
+    "allowAutorespond": true,
     "allowAutowoot": true,
     "allowAutojoin": true,
     "allowAutograb": true,
     "allowSmartVote": true,
     "allowEmotes": true,
-    "allowShowingMehs": false,
+    "allowShowingMehs": true,
     "forceSmartVote": false
 },
   "ccc": {
